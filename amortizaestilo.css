@@ -1,0 +1,56 @@
+/* 
+    Document   : Estilo CSS de 
+    Created on : 22 Sep, 2015, 01:48:25 PM
+    Author     : Edgar Cotes
+    Description: Estilo del plugin
+*/
+.AMortCal {
+    background: none repeat scroll 0 0 #f55734;
+    border-radius: 6px 6px 6px 6px;
+    padding: 10px;
+    width: 250px;
+    color: #fff;
+}
+.AMortCal label{
+    font-size: 14px;
+	color: #000000;
+}
+.AMortCal h3{
+    margin: 10px !important;
+}
+.resultado {
+    background: none repeat scroll 0 0 white;
+    border: 1px solid;
+    border-radius: 4px 4px 4px 4px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 70%;
+    font-size: 16px;
+    line-height: 16px;
+    color:black;
+    font-weight: bold;
+}
+.clear{
+    clear: both;
+}
+.boton {
+    background: none repeat scroll 0 0 black !important;
+    border: medium none !important;
+    cursor: pointer !important;
+    padding: 5px !important;
+    width: 45%;
+    color: white !important;
+    margin-top: 5px !important;
+}
+input[type="text"] {
+    cursor: pointer;
+    color: black;
+}
+.morhdcls{
+    font-weight: bold;
+    color: #000000;
+}
+
+
+
